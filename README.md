@@ -2,12 +2,9 @@
 <h3 align="center"> (She/Her) </h3>
 <h3 align="center">A hairdresser turned frontend developer from Sweden</h3>
 
-- 🌱 I’m currently learning **Figma**
+- 🌱 I’m currently learning **Svelte**
 
-- 💬 Ask me about **React and Javascript**
-
-- 📫 How to reach me **charlotta.boden@hotmail.com**
-
+- 💬 Ask me about **React and Typescript**
 
 
 <h3 align="left">Languages and Tools:</h3>
